@@ -7,7 +7,8 @@ No framework or library (except glide.js) was used throughout the project.
 
 
 let me know your feedback about my project
-you can mail uss on : aayushsapkota445@gmail.com
+you can mail us on : 
+business.aayushsapkota@gmail.com 
 
 also you can folow me on Github : Aayush-Sapkota89
 
